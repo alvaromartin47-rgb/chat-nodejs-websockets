@@ -1,0 +1,6 @@
+[submodule "client-chat-nodejs"]
+	path = client-chat-nodejs
+	url = git@github.com:alvaromartin47-rgb/client-chat-nodejs.git
+[submodule "server-chat-nodejs"]
+	path = server-chat-nodejs
+	url = git@github.com:alvaromartin47-rgb/server-chat-nodejs.git
